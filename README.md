@@ -14,10 +14,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
 </div>
 
-Public information
+# Public information
 My name is Matheus Ferreira. I currently live in São Paulo, Brazil.
 
-Detailed information
+# Detailed information
 Name: Matheus Ferreira
 Living in: Diadema - SP, Brazil
 Stack: PHP - Laravel - Bootstrap - SQL

@@ -4,8 +4,8 @@
 <div>
   <i class="devicon-laravel-original-wordmark colored"></i>
   <i class="devicon-php-plain colored"></i>
-  <i class="devicon-postgresql-plain-wordmark colored"></i>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <i class="devicon-postgresql-plain-wordmark colored"></i>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
                    
 

@@ -1,13 +1,15 @@
 ### Hi there, I'm Matheus 👋
 
 ⚡ Technologies
-<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+<!--<div>
   <i class="devicon-laravel-original-wordmark colored"></i>
   <i class="devicon-php-plain colored"></i>
   <i class="devicon-postgresql-plain-wordmark colored"></i>  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-                   
+</div> -->
+
+          
 
        
           

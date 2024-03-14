@@ -1,8 +1,9 @@
 ### Hi there, I'm Matheus 👋
 
 ⚡ Technologies
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/>
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="60" height="60"/>
+</div>
 <!--<div>
   <i class="devicon-laravel-original-wordmark colored"></i>
   <i class="devicon-php-plain colored"></i>

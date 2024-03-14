@@ -18,10 +18,10 @@
 My name is Matheus Ferreira. I currently live in São Paulo, Brazil.
 
 # Detailed information
-Name: Matheus Ferreira
-Living in: Diadema - SP, Brazil
-Stack: PHP - Laravel - Bootstrap - SQL
-University: UMESP 
+Name: Matheus Ferreira </br>
+Living in: Diadema - SP, Brazil  </br>
+Stack: PHP - Laravel - Bootstrap - SQL </br>
+University: UMESP </br>
 
 <!--<div>
   <i class="devicon-laravel-original-wordmark colored"></i>

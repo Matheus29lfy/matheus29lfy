@@ -26,6 +26,7 @@ Sou um desenvolvedor Full Stack com sólida experiência no desenvolvimento de s
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
@@ -43,8 +44,8 @@ Sou um desenvolvedor Full Stack com sólida experiência no desenvolvimento de s
 ### 📊 Github Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus29lfy&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus29lfy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus29lfy&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus29lfy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 ---
